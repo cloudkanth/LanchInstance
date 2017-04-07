@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Script is under design"
+echo "Script is under implementation"
